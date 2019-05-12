@@ -1,8 +1,8 @@
 
-def levitation_quiz
+def levitation_quiz(Wingardium Lebviosa)
   loop do
     puts "What is the spell that enacts levitation?"
-    levitation_quiz.chomp 
+    gets.chomp 
       break if levitation_quiz == "Wingardium Leviosa"
   end
     puts "You passed the quiz!"
