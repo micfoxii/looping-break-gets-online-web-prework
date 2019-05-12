@@ -1,5 +1,5 @@
 
-def levitation_quiz(Wingardium Lebviosa)
+def levitation_quiz(Wingardium Leviosa)
   loop do
     puts "What is the spell that enacts levitation?"
     gets.chomp 
